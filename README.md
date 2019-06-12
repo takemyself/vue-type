@@ -28,4 +28,5 @@ npm run lint
 ### 相关npm
 ```
 npm install echarts --save
+npm install --save vue-property-decorator
 ```
